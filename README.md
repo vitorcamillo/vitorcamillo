@@ -18,8 +18,23 @@ Desenvolvedor Full-Stack com foco em Java e Spring Boot no back-end e React/Next
 ## Produtos
 
 - **ReservaJá** — reservas de ingressos para jogos e eventos: [reservaja.uk](https://reservaja.uk).
-- **FreelasAtende** — monitora oportunidades freelance e prepara rascunhos para aprovação humana: [repositório](https://github.com/vitorcamillo/freelasAtende).
-- **Git-Revisor** — revisão automatizada de código: [repositório](https://github.com/vitorcamillo/git-revisor).
+
+## Projetos open source
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/vitorcamillo/git-revisor"><img src="assets/projetos/git-revisor.png" alt="git-revisor"></a><br><b><a href="https://github.com/vitorcamillo/git-revisor">git-revisor</a></b><br>Revisão de código por IA nos hooks do Git, que bloqueia o push quebrado.</td>
+<td width="50%" valign="top"><a href="https://github.com/vitorcamillo/worker-ask-router"><img src="assets/projetos/worker-ask-router.png" alt="worker-ask-router"></a><br><b><a href="https://github.com/vitorcamillo/worker-ask-router">worker-ask-router</a></b><br>Um comando para vários agentes de IA, com troca automática no limite de uso.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/vitorcamillo/javaDriveless"><img src="assets/projetos/javaDriveless.png" alt="javaDriveless"></a><br><b><a href="https://github.com/vitorcamillo/javaDriveless">javaDriveless</a></b><br>Automação de Chrome em Java pelo DevTools Protocol, sem ChromeDriver.</td>
+<td width="50%" valign="top"><a href="https://github.com/vitorcamillo/social-mcp"><img src="assets/projetos/social-mcp.png" alt="social-mcp"></a><br><b><a href="https://github.com/vitorcamillo/social-mcp">social-mcp</a></b><br>Servidor MCP para redes sociais com aprovação humana obrigatória.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/vitorcamillo/freelasAtende"><img src="assets/projetos/freelasAtende.png" alt="freelasAtende"></a><br><b><a href="https://github.com/vitorcamillo/freelasAtende">freelasAtende</a></b><br>Monitora marketplaces de freelance e prepara propostas com IA.</td>
+<td width="50%" valign="top"><a href="https://github.com/vitorcamillo/wolf-games"><img src="assets/projetos/wolf-games.png" alt="wolf-games"></a><br><b><a href="https://github.com/vitorcamillo/wolf-games">wolf-games</a></b><br>Estante 3D de jogos para Android TV via Moonlight e Wolf.</td>
+</tr>
+</table>
 
 ## Formação complementar
 
